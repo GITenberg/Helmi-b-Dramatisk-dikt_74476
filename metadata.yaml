@@ -1,0 +1,31 @@
+_repo: Helmi-b-Dramatisk-dikt_74476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ongelin, Hanna
+    birthdate: 1848
+    deathdate: 1893
+    gutenberg_agent_id: '6415'
+    url: http://www.gutenberg.org/2009/agents/6415
+    wikipedia: https://fi.wikipedia.org/wiki/Hanna_Ongelin
+description: ''
+gutenberg_issued: '2024-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74476'
+language: sv
+pgterms:marc905: 20240920002320ongelin
+pgterms:marc906: '1872'
+pgterms:marc907: FI
+production_note: Jari Koivisto and Tapio Riikonen
+publication_note: '  $aHelsingfors :$bU. W. Edlunds Förlag, $c1872.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finland -- History -- To 1523 -- Drama'
+- !lcsh 'Swedish drama -- 19th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Helmi : $b Dramatisk dikt'
+url: http://www.gutenberg.org/ebooks/74476
